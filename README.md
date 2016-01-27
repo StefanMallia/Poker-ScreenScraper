@@ -1,7 +1,9 @@
 # Poker-Screen-Scraper
 
-Disclaimer: this program is intended for practice games only as a learning tool
-Run the launcher.py script file while a game is in progress. The program will screenshot the window that has a title that starts with 'No Limit Hold\'em'
+Disclaimer: this program is intended for practice games only as a learning tool.
+
+Run the launcher.py script file while a game is in progress.
+The program will screenshot the window that has a title that starts with 'No Limit Hold\'em'
 
 This will only work for 6 player No Limit Hold 'em games
 
